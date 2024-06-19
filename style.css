@@ -282,7 +282,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box h3{
-    font-size: 2rem;
+    font-size: 4rem;
     color:#fff;
     padding-top: 1.5rem;
 }
@@ -301,8 +301,8 @@ header .navbar ul li a:hover{
     border-radius: 50%;
     line-height: 5rem;
     text-align: center;
-    font-size: 2rem;
-    color:#fff;
+    font-size: 3rem;
+    color:#910763;
     background:var(--yellow);
 }
 .education .row{
