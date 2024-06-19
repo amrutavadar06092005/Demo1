@@ -377,6 +377,7 @@ header .navbar ul li a:hover{
     padding: 6rem 0; 
 }
 
+
 .contact .row{
     display: flex;
     align-items: center;
@@ -387,7 +388,7 @@ header .navbar ul li a:hover{
 .contact .row .content{
     flex:1 1 70rem;
     padding:4rem;
-    padding-bottom: 0;
+    padding-bottom: 10;
 }
 
 .contact .row form{
@@ -437,15 +438,12 @@ header .navbar ul li a:hover{
     color:var(--yellow);
 }
 
-
-
-.top{
+contact.top{
     position: fixed;
     bottom:7.5rem; right: 2rem;
     z-index: 100;
     display: none;
 }
-
 
 .skill h1{
     text-align: center;
