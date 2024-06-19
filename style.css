@@ -180,6 +180,9 @@ header .navbar ul li a:hover{
     color:#eee;
     padding: 1rem 0;
 }
+.home h4{
+     font-size:4rem;
+}
 
 .about .row{
     display: flex;
@@ -349,6 +352,9 @@ header .navbar ul li a:hover{
     color:#eee;
     padding: 1rem 0;
 }
+.project h4{
+     font-size:4rem;
+}
 
 
 .contact .row{
@@ -409,6 +415,9 @@ header .navbar ul li a:hover{
 .contact .row .content .info h3 i{
     padding-right: 2rem;
     color:var(--yellow);
+}
+.contact h4{
+     font-size:4rem;
 }
 
 .top{
