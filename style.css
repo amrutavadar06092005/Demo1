@@ -327,7 +327,7 @@ header .navbar ul li a:hover{
     padding:0 15rem;
 }
 .project a{
-    color:#c92c0d;
+    color:#eee;
 }
 
 .project h2{
@@ -345,7 +345,7 @@ header .navbar ul li a:hover{
 }
 
 .project p{
-    font-size:4rem;
+    font-size:2rem;
     color:#eee;
     padding: 1rem 0;
 }
