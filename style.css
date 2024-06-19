@@ -385,7 +385,7 @@ header .navbar ul li a:hover{
 }
 
 .contact .row .content{
-    flex:1 1 30rem;
+    flex:1 1 70rem;
     padding:4rem;
     padding-bottom: 0;
 }
@@ -436,16 +436,7 @@ header .navbar ul li a:hover{
     padding-right: 2rem;
     color:var(--yellow);
 }
-.contact h4{
-     font-size:4rem;
-}
-.contact .row{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding:1rem 0;
-}
+
 
 .top{
     position: fixed;
