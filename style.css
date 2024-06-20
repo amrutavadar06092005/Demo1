@@ -178,14 +178,7 @@ header .navbar ul li a:hover{
 .home p{
     font-size:2rem;
     color:#eee;
-    padding: 2rem 0;
-}
-.home .row{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding:1rem 0;
+    padding: 1rem 0;
 }
 
 .about .row{
@@ -250,7 +243,7 @@ header .navbar ul li a:hover{
   
 }
 .about h1{
-    font-size: 5rem;
+    font-size: 6rem;
 }
 
 .education .box-container{
@@ -299,15 +292,11 @@ header .navbar ul li a:hover{
     line-height: 5rem;
     text-align: center;
     font-size: 2rem;
-    color:#fff;
+    color:#b5b8b3;
     background:var(--yellow);
 }
-.education .row{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding:1rem 0;
+.education p{
+    font-size: 5rem;
 }
 
 .portfolio .box-container{
@@ -344,10 +333,8 @@ header .navbar ul li a:hover{
     padding:0 15rem;
 }
 .project a{
-    color:#c92c0d;
-    
+    color:#aeeaf8;
 }
-
 
 .project h2{
     font-size: 2.0rem;
@@ -366,12 +353,14 @@ header .navbar ul li a:hover{
 .project p{
     font-size:2rem;
     color:#eee;
-    padding: 4rem 0;
+    padding: 1rem 0;
 }
 .project h4{
-    font-size:3rem;
+    font-size:2rem;
 }
-
+.project img{
+    padding: 6rem 0; 
+}
 
 .contact .row{
     display: flex;
